@@ -1,0 +1,57 @@
+de:
+  navigation_label: Akari-CE-Navigation
+  project_label: Software
+  title: Akari CE
+  open_label: Akari-CE-Menü öffnen
+  back_label: Alle Nijida-Seiten
+  menu:
+    - id: overview
+      title: Überblick
+      description: Einordnung und bestätigter Stand
+      url: /de/
+    - id: definition
+      title: Projektdefinition
+      description: Offene Fragen und nächste Schritte
+      url: /de/projektdefinition/
+    - id: principles
+      title: Grundsätze
+      description: Unabhängigkeit und klare Grenzen
+      url: /de/grundsaetze/
+en:
+  navigation_label: Akari CE navigation
+  project_label: Software
+  title: Akari CE
+  open_label: Open the Akari CE menu
+  back_label: All Nijida pages
+  menu:
+    - id: overview
+      title: Overview
+      description: Context and confirmed state
+      url: /en/
+    - id: definition
+      title: Project definition
+      description: Open questions and next steps
+      url: /en/project-definition/
+    - id: principles
+      title: Principles
+      description: Independence and clear boundaries
+      url: /en/principles/
+ja:
+  navigation_label: Akari CEナビゲーション
+  project_label: ソフトウェア
+  title: Akari CE
+  open_label: Akari CEメニューを開く
+  back_label: Nijida全体メニュー
+  menu:
+    - id: overview
+      title: 概要
+      description: 位置付けと現在の状況
+      url: /ja/
+    - id: definition
+      title: プロジェクトの定義
+      description: 検討事項と次の作業
+      url: /ja/project-definition/
+    - id: principles
+      title: 基本方針
+      description: 独立性と明確な境界
+      url: /ja/principles/
